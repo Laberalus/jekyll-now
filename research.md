@@ -1,15 +1,18 @@
 ---
 layout: page
 title: Research
-permalink: /Research/
+permalink: /research/
 ---
 
-Some information about you!
+My current research interests fall roughly into 3 categories that influence a central theme.
+<ol>
+  <li> Modeling tumor fitness and evolution
+  <li> Elucidating Molecular mechanisms of adaptation to Chromosomal INstability (CIN)
+  <li> Characterizing tumor heterogeneity of aneuploidy and conferred fitness
+</ol>
 
-### More Information
+### Modeling Tumor Fitness and Evolution
 
-A place to include any other types of information that you'd like to include about yourself.
+### Elucidating Molecular Mechanisms of Adaptation to CIN
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Characterizing Tumor Heterogeneity of Aneuploidy and Conferred Fitness 
