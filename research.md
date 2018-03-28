@@ -11,9 +11,8 @@ My current research interests fall roughly into 3 categories that influence a ce
 <br>
 <ol>
   <li> Modeling tumor fitness and evolution
-  <li> Elucidating Molecular mechanisms of adaptation to Chromosomal INstability (CIN) &rarr; 
+  <li> Elucidating Molecular mechanisms of adaptation to Chromosomal INstability (CIN)
   <li> Characterizing tumor heterogeneity of aneuploidy and conferred fitness
-</ol>
 <br><br><br>
 
 **Modeling Tumor Fitness and Evolution
