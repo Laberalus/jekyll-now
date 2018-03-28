@@ -15,6 +15,6 @@ My current research interests fall roughly into 3 categories that influence a ce
 
 ### Modeling Tumor Fitness and Evolution
 
-### Elucidating Molecular Mechanisms of Adaptation to CIN
+### Elucidating Molecular Mechanisms of Adaptation to CIN 
 
-### Characterizing Tumor Heterogeneity of Aneuploidy and Conferred Fitness
+### Characterizing Tumor Heterogeneity of Aneuploidy and Conferred Fitness 
