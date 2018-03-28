@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: andrewrlynch.github.io/research/
+permalink: /research/
 ---
 
 My current research interests fall roughly into 3 categories that influence a central theme.
