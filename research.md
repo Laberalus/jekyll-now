@@ -5,8 +5,9 @@ permalink: /research/
 published: true
 ---
 
-My current research interests fall roughly into 3 categories that influence a central theme.
 ## CANCER AS AN ECOSYSTEM
+<BR>
+My current research interests fall roughly into 3 categories that influence a central theme.
 <br>
 ### <ol>
   <li> Modeling tumor fitness and evolution
