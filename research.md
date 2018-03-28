@@ -5,7 +5,7 @@ permalink: /research/
 published: true
 ---
 
-## CANCER AS AN ECOSYSTEM 
+## CANCER AS AN ECOSYSTEM ##
 <BR>
 My current research interests fall roughly into 3 categories that influence a central theme.
 <br>
@@ -16,11 +16,11 @@ My current research interests fall roughly into 3 categories that influence a ce
 </ol>
 <br><br><br>
 
-**Modeling Tumor Fitness and Evolution**
+**Modeling Tumor Fitness and Evolution
 <br>
 
-**Elucidating Molecular Mechanisms of Adaptation to CIN**
+**Elucidating Molecular Mechanisms of Adaptation to CIN
 <br>
 
-**Characterizing Tumor Heterogeneity of Aneuploidy and Conferred Fitness**
+**Characterizing Tumor Heterogeneity of Aneuploidy and Conferred Fitness
 <br>
