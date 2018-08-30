@@ -10,12 +10,12 @@ published: true
 My current research interests fall roughly into 3 categories that influence a central theme.
 <br>
 <ol>
-  <li> Modeling tumor fitness and evolution
+  <li> Dynamical modeling of tumor fitness and evolution
   <li> Elucidating Molecular mechanisms of adaptation to Chromosomal INstability (CIN)
   <li> Characterizing tumor heterogeneity of aneuploidy and conferred fitness
 <br><br><br>
 
-<p style="text-align:center"><b>Modeling Tumor Fitness and Evolution</b></p>
+<p style="text-align:center"><b>Dynamical Modeling of Tumor Fitness and Evolution in CIN</b></p>
 <br>
 
 
