@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: Old blog posts for which one would ostensibly want a convenient list
 ---
 ## Old blog posts for which one would ostensibly want a convenient list
 
