@@ -9,7 +9,7 @@ name: Andrew R. Lynch
 description: Graduate Student, Cancer Researcher, Human
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/andrewrlynch/andrewrlynch.github.io/master/images/21728531_1317771771662147_2426491667223441684_n.jpg
+avatar: https://avatars1.githubusercontent.com/u/37605960?s=400&u=3a43bb1ebf983d0a8e5898d5bc01c5297f90be9f&v=4
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   github: andrewrlynch
   linkedin: https://www.linkedin.com/in/andrewrlynch/
   rss: # just type anything here for a working RSS icon
-  twitter: TheBioconjugate
+  twitter: AndrewLynchBio
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
 
