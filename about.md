@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 published: true
 ---
-## What to expect
+# What to expect
 *Disclaimer: The views and opinions expressed in this blog are those of myself, Andrew Lynch, not any other employing or governing entity with which I am associated.*
 ### Blog posts
 Prior to setting up shop on a github domain, I wrote intermittently on science literacy, policy, etc. on my blog <a href = "https://bioconjugate.blog">*The Bioconjugate*</a>.
