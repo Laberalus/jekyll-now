@@ -73,8 +73,12 @@ a {
   color: $darkOrange;
   text-decoration: none;
 	cursor: pointer;
+	  &:active {
+    color: $darkOrange;
+  }
   &:hover {
     font-weight: italic;
+	  
 	}
 }
 
