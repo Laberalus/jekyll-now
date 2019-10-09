@@ -18,8 +18,9 @@ html {
 }
 
 body {
-	padding: 50px 0 0;  // padding-top equal to masthead height or greater
-	background: $white;
+  padding: 50px 0 0;  // padding-top equal to masthead height or greater
+  margin-top: 85px;
+  background: $white;
   font: 16px/1.4 $helveticaNeue;
   color: $darkGray;
 }
@@ -218,7 +219,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 30px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
