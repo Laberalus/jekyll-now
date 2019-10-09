@@ -1,3 +1,5 @@
+//Import Google Fonts
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway:300&display=swap');
 
 //
 // VARIABLES
@@ -19,7 +21,8 @@ $white: #fff;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
-
+$openSans: 'Open Sans', sans-serif;
+$raleway: 'Raleway', sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
