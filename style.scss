@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	padding: 170px 0 0;  // padding-top equal to masthead height or greater
+	padding: 20px 0 0;  // padding-top equal to masthead height or greater
 	background: $white;
   font: 16px/1.4 $helveticaNeue;
   color: $darkGray;
@@ -27,7 +27,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 1000px;
-  padding: 0 100px;
+  padding: 0 10px;
   width: 100%;
 }
 
@@ -156,7 +156,7 @@ img {
   top: 0;
   position: fixed;
   width: 100%;
-  background: #FFFFFF;  // set a color to hide content that may appear below masthead
+  background: $darkOrange;  // set a color to hide content that may appear below masthead
   height: 20px; // need a magic number here which may break in different viewports
 }
 
