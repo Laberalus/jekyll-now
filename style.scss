@@ -18,6 +18,7 @@ html {
 }
 
 body {
+	padding: 85px 0 0;  // padding-top equal to masthead height or greater
 	background: $white;
   font: 16px/1.4 $helveticaNeue;
   color: $darkGray;
