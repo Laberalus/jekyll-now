@@ -153,10 +153,11 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  margin-top: 25px;
   position: fixed;
   width: 100%;
   background: $white;  // set a color to hide content that may appear below masthead
-  height: 150px; // need a magic number here which may break in different viewports
+  height: 70px; // need a magic number here which may break in different viewports
 }
 
 .masthead {
