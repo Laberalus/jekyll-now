@@ -73,13 +73,13 @@ a {
   color: $darkOrange;
   text-decoration: none;
 	cursor: pointer;
-	  &:active {
-    color: $darkOrange;
-  }
-  &:hover {
-    font-weight: italic;
-	  
-	}
+&:hover {
+   &:hover {
+     font-weight: bold;
+ 	},
+   &:active {
+     color: $darkOrange;
+   }
 }
 
 ul, ol {
