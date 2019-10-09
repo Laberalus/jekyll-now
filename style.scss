@@ -162,6 +162,7 @@ img {
 
 .masthead {
   padding: 20px 0;
+  top: 10px;
   border-bottom:1px solid $lightGray;
   background: #FFFFFF;
   @include mobile {
@@ -180,6 +181,11 @@ img {
     display: block;
     margin: 0 auto;
   }
+.site-avatar:hover {
+    cursor: pointer;
+    height:125px;
+    width: 125px;
+}
 
   img {
     border-radius: 5px;
