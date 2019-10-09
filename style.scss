@@ -155,7 +155,7 @@ img {
 .wrapper-masthead {
   margin-bottom: 10px;
   top: 0;
-  position: fixed;
+  position: relative;
   width: 100%;
   background: #FFFFFF;  // set a color to hide content that may appear below masthead
   height: 85px; // need a magic number here which may break in different viewports
