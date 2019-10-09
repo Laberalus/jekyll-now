@@ -7,11 +7,12 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
+      <p>
       <div class="entry">
         <div class="date">
           {{ page.date | date: "%B %e, %Y" }}
         </div>
+        </p>
         {{ post.content }}
       </div>
     </article>
