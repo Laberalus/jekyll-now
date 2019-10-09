@@ -73,7 +73,10 @@ a {
   color: $darkOrange;
   text-decoration: none;
 	cursor: pointer;
-  &:hover, &:active {
+  &:hover {
+    font-weight: bold;
+	}
+  &:active {
     color: $darkOrange;
   }
 }
