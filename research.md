@@ -5,7 +5,6 @@ permalink: /research/
 published: true
 ---
 <p style="text-align:center"><img src = "{{site.baseurl}}/nci-vol-2493-300.jpg" width = "740"></p>
-  <br>
 
 ## Chromosomal Instability in the Progression of Human Cancer
   <p style="text-align:justify">
