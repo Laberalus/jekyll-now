@@ -20,4 +20,3 @@ Genomic instability is a major hallmark of human cancer. Chromosomal instability
 ### Transcriptional consequences of chromosome missegregation
 
 ### Characterizing tumor karyotypic heterogeneity and conferred fitness
-
