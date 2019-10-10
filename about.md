@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 published: true
 ---
-# What to expect
+# Hi. 
+My name is Andrew Lynch. I'm a scientist studying cancer and currently a PhD student in Cell and Molecular Pathology at the University of Wisconsin - Madison. I employ genomics, stochastic modeling, and cell biology to study the role of chromosomal instability (CIN) and aneuploidy in the evolution of tumors and the progression of cancer.
+<br>
 *Disclaimer: The views and opinions expressed in this blog are those of myself, Andrew Lynch, not any other employing or governing entity with which I am associated.*
+# What to expect 
 ### Blog posts
-Prior to setting up shop on a github domain, I wrote intermittently on science literacy, policy, etc. on my blog <a href = "https://bioconjugate.blog">*The Bioconjugate*</a>.
+Prior to setting up shop on a github domain, I wrote intermittently on science literacy, policy, etc. on my blog <a href = "https://bioconjugate.blog">*The Bioconjugate*</a>. These posts were somewhat exploratory in nature. Really figuring out what it is I'm interested in and what my *angle* is. But who needs angles these days? One can expect to find here a smattering of thoughts...primarily science related, intermittently opining.  
 ### Publications and commentary thereof
+In addition to general thoughts, this will serve as a place for papers to be made available with the added bonus(?) of further commentary and context. These posts will be populating at some point...
 
 # Outside of science
 ### Reading
