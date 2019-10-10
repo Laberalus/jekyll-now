@@ -5,13 +5,15 @@ date: 09 Oct 2019
 ---
 
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+~~~
+def what?
+  42
+end
+~~~
+{: .language-ruby}
 <br>
 
-```r
-TestVector <- c(1,2,3,4,5)
-```
+~~~
+TestVector <- c(1,2,3,4)
+~~~
+{: .language-r}
