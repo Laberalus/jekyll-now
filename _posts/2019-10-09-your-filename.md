@@ -1,7 +1,8 @@
 ---
-published: false
+layout: post
+title: Testing code blocks
+date: 09 Oct 2019
 ---
-## Testing code blocks
 
 
 ```ruby
