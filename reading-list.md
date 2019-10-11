@@ -8,13 +8,7 @@ published: true
 *Disclaimer I: for the purists, this includes audiobooks (AB).*
 <br>
 *Disclaimer II: books listed are not necessarily endorsements*
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Read (in chron'l order):</b></td>
-    <td><b style="font-size:30px">Reading List (as of 11 Oct 2019)</b></td>
- </tr>
- <tr>
-    <td>
+ ###Read (in chron'l order):
     *Casino Royale* - Ian Fleming<br>
     *Snakewood* - Adrian Selby<br>
     *A Feast for Crows* - George RR Martin(AB)<br>
@@ -43,9 +37,7 @@ published: true
     .<br>
     .<br>
     
-
-    </td>
-    <td>
+    ###Reading List (as of 11 Oct 2019)
     *Catch and Kill* - Ronan Farrow (very much anticipating this one)<br>
     *The Fate of Food* - Amanda Little<br>
     *The Subtle Art of Not Giving a Fuck* - Mark Manson<br>
@@ -69,6 +61,3 @@ published: true
     .<br>
     .<br>
     .<br>
-    </td>
- </tr>
-</table>
