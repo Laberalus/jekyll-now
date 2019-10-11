@@ -8,7 +8,7 @@ published: true
 <br>
 *Disclaimer II: books listed are not necessarily endorsements*
 <br>
-## Read (in chron'l order):
+## Read (in chron'l order, since 2017):
 **Casino Royale** - Ian Fleming<br>
 **Snakewood** - Adrian Selby<br>
 **A Feast for Crows** - George RR Martin(AB)<br>
