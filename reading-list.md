@@ -14,7 +14,7 @@ published: true
 **Guns, Germs, and Steel** - Jared Diamond<br>
 **TED Talks: The Official TED Guide to Public Speaking** - Chris Anderson<br>
 
-## Read:
+## Have Read:
 #### since 2017 starting with most recent
 **Casino Royale** - Ian Fleming<br>
 **Snakewood** - Adrian Selby<br>
@@ -41,7 +41,7 @@ published: true
 **On the Road** - Jack Kerouac<br>
 **The Way of Kings** - Brandon Sanderson<br>
     
-## Reading List
+## To Read:
 #### as of 11 Oct 2019
 **Catch and Kill** - Ronan Farrow (very much anticipating this one)<br>
 **The Fate of Food** - Amanda Little<br>
