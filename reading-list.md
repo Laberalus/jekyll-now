@@ -14,7 +14,7 @@ published: true
     *A Feast for Crows* - George RR Martin(AB)<br>
     *A Storm of Swords* - George RR Martin(AB)<br>
     *Clash of Kings* - George RR Martin(AB)<br>
-    *The Collapsing Empire" - John Scalzi(AB)<br>
+    *The Collapsing Empire* - John Scalzi(AB)<br>
     *Last Argument of Kings* - Joe Abercrombie(AB)<br>
     *Before They Are Hanged* - Joe Abercrombie(AB)<br>
     *The Blade Itself* - Joe Abercrombie(AB)<br>
