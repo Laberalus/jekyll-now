@@ -8,6 +8,15 @@ published: true
 <br>
 *Disclaimer II: books listed are not necessarily endorsements*
 <br>
+## Currently Reading:
+**The Silmarillion** - JRR Tolkien<br>
+**The Great Hunt** - Robert Jordan<br>
+**Guns, Germs, and Steel** - Jared Diamond<br>
+**TED Talks: The Official TED Guide to Public Speaking** - Chris Anderson<br>
+.<br>
+.<br>
+.<br>
+
 ## Read:
 #### since 2017 starting with most recent
 **Casino Royale** - Ian Fleming<br>
