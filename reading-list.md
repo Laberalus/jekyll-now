@@ -13,9 +13,6 @@ published: true
 **The Great Hunt** - Robert Jordan<br>
 **Guns, Germs, and Steel** - Jared Diamond<br>
 **TED Talks: The Official TED Guide to Public Speaking** - Chris Anderson<br>
-.<br>
-.<br>
-.<br>
 
 ## Read:
 #### since 2017 starting with most recent
@@ -43,9 +40,6 @@ published: true
 **Words of Radiance** - Brandon Sanderson<br>
 **On the Road** - Jack Kerouac<br>
 **The Way of Kings** - Brandon Sanderson<br>
-.<br>
-.<br>
-.<br>
     
 ## Reading List
 #### as of 11 Oct 2019
@@ -69,6 +63,3 @@ published: true
 **Children of Blood and Bone** - Tomy Adeyemi<br>
 **The Sea Around Us** - Rachel Carson<br>
 **Algorithms to Live By** - Brian Christian & Tom Griffiths<br>
-.<br>
-.<br>
-.<br>
