@@ -8,7 +8,8 @@ published: true
 <br>
 *Disclaimer II: books listed are not necessarily endorsements*
 <br>
-## Read (in chron'l order, since 2017):
+## Read:
+#### in chron'l order, since 2017
 **Casino Royale** - Ian Fleming<br>
 **Snakewood** - Adrian Selby<br>
 **A Feast for Crows** - George RR Martin(AB)<br>
@@ -37,7 +38,8 @@ published: true
 .<br>
 .<br>
     
-## Reading List (as of 11 Oct 2019)
+## Reading List
+#### as of 11 Oct 2019
 **Catch and Kill** - Ronan Farrow (very much anticipating this one)<br>
 **The Fate of Food** - Amanda Little<br>
 **The Subtle Art of Not Giving a Fuck** - Mark Manson<br>
