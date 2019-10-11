@@ -9,7 +9,7 @@ published: true
 *Disclaimer II: books listed are not necessarily endorsements*
 <br>
 ## Read:
-#### in chron'l order, since 2017
+#### since 2017 starting with most recent
 **Casino Royale** - Ian Fleming<br>
 **Snakewood** - Adrian Selby<br>
 **A Feast for Crows** - George RR Martin(AB)<br>
