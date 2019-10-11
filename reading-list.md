@@ -4,7 +4,6 @@ title: Reading List
 permalink: /reading-list/
 published: true
 ---
-
 *Disclaimer I: for the purists, this includes audiobooks (AB).*
 <br>
 *Disclaimer II: books listed are not necessarily endorsements*
