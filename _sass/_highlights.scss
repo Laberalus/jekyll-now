@@ -6,8 +6,12 @@
   max-width: 60%;
   border-radius: 5px;
   overflow: auto;
-  
+  vertical-align: middle;
 }
+.highlight .highlight {
+   border: none;
+   box-shadow: none;
+ }
 
 code {
   font-family:'Bitstream Vera Sans Mono','Courier', monospace;
