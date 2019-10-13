@@ -22,6 +22,7 @@ published: true
 **A Storm of Swords** - George RR Martin(AB)<br>
 **Clash of Kings** - George RR Martin(AB)<br>
 **The Collapsing Empire** - John Scalzi(AB)<br>
+**A Walk in the Woods** - Bill Bryson<br>
 **Last Argument of Kings** - Joe Abercrombie(AB)<br>
 **Before They Are Hanged** - Joe Abercrombie(AB)<br>
 **The Blade Itself** - Joe Abercrombie(AB)<br>
