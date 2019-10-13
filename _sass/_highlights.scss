@@ -2,9 +2,11 @@
 .highlight {
   background-color: #0A324D;
   max-width: 60%;
-  border-radius: 1px;
+  padding: 2px 2px 2px 2px;
+  border-radius: 2px;
   overflow: auto;
   text-align: left;
+  vertical-align: middle;
 }
 .highlight .highlight {
    border: none;
