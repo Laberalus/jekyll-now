@@ -58,7 +58,7 @@ kramdown:
     highlighter: rouge
     syntax_highlighter_opts:
         block:
-            line_numbers: true
+            line_numbers: false
 
 # Set the Sass partials directory, as we're using @imports
 sass:
