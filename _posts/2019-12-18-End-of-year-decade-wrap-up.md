@@ -16,6 +16,7 @@ This year - 2019 - has been a great year for me. And this decade offers a lot to
 <br>
 
 ### The Decade in Data
+#### Climate Change
 ~~~
 #Sea Surface Temperature Anomaly
 p1 <- ggplot(df2, aes(x = Year, y = Annual.anomaly)) + 
@@ -47,3 +48,6 @@ ggarrange(p1, p2)
 {: .language-r}
 <br>
 ![](/images/Climate.png)
+<br>
+#### A Decade in Google Search Trends
+![](/images/Trends.png)
