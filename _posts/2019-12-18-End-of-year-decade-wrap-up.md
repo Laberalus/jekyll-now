@@ -1,22 +1,21 @@
 ---
-published: false
----
----
 layout: post
 title: Year- and Decade-End Recap
 date: 18 Dec 2019
 ---
 Well here we are. We're nearing the end of the Twenty-Teens. A decade of increasing global unrest, political polarization, climate change-related weather anomalies, CRISPR-babies, and Taylor Swift!
 <br>
+This year - 2019 - has been a great year for me. And this decade offers a lot to reflect on - within my own personal life and without.
+<br>
+###Notable Events
 
-##Notable Events
 <br>
 
 
-##Notable Dates and Milestones
+###Notable Dates and Milestones
 <br>
 
-##The Decade in Data
+###The Decade in Data
 ~~~
 #Sea Surface Temperature Anomaly
 p1 <- ggplot(df2, aes(x = Year, y = Annual.anomaly)) + 
