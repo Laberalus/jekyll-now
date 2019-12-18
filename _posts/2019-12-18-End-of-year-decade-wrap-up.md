@@ -46,4 +46,4 @@ ggarrange(p1, p2)
 ~~~
 {: .language-r}
 <br>
-![]({{site.baseurl}}/https://github.com/andrewrlynch/andrewrlynch.github.io/blob/master/images/Climate.png?raw=true)
+![](/images/Climate.png)
