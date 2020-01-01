@@ -21,7 +21,7 @@ This year - 2019 - has been a great year for me. And this decade offers a lot to
 #### 2012<br>
 -[CRISPR can be used for *targeted* DNA cleavage.](https://github.com/andrewrlynch/andrewrlynch.github.io/blob/master/Jinek-et-al.-2012.pdf)
 -[Higgs boson is detected at CERN.](https://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html)<br>
--The whole Kony 2012 thing.
+-The whole Kony 2012 thing.<br>
 -The Mayan/Mesoamerican Long Count Calendar ends (21 December). Apocalypse begins. <br>
 #### 2013 <br>
 -Pope Francis succeeds Pope Benedict XVI. <br>
