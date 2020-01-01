@@ -62,11 +62,13 @@ This year - 2019 - has been a great year for me. And this decade offers a lot to
 -First all woman space walk. After an embarrassing NASA space-suit snafu. <br>
 
 
-## For Me - Notable Dates and Milestones
-<br>
+## For Me - Notable Dates and Milestones <br>
+**Sometime in 2011** - Realize I should probably get my shit together and start thinking about college. Decide I want to be a psychiatrist. <br>
+**31 October 2012** - Meet my future wife in the basement of my girlfriend's house during a Halloween screening of *Cabin Fever*. <br>
+**
 
 ## The Decade in Data
-#### Climate Change
+### Climate Change
 ~~~
 #Sea Surface Temperature Anomaly
 p1 <- ggplot(df2, aes(x = Year, y = Annual.anomaly)) + 
@@ -99,5 +101,5 @@ ggarrange(p1, p2)
 <br>
 ![](/images/Climate.png)
 <br>
-#### Google Search Trends
+### Google Search Trends
 ![](/images/Trends.png)
