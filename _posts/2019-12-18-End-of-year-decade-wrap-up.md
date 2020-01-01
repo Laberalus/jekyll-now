@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Year- and Decade-End Recap
+title: A Decade In-Review
 date: 18 Dec 2019
 published: true
 ---
