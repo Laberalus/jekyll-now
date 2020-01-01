@@ -19,9 +19,9 @@ This year - 2019 - has been a great year for me. And this decade offers a lot to
 -Osama bin Laden killed by U.S. Special Forces in Pakistan. <br>
 -Egyptian revolution begins a series of protests and revolutions in what is referred to as the "Arab Spring".<br>
 #### 2012<br>
--[CRISPR can be used for *targeted* DNA cleavage.](https://github.com/andrewrlynch/andrewrlynch.github.io/blob/master/Jinek-et-al.-2012.pdf)
+-[CRISPR can be used for *targeted* DNA cleavage.](https://github.com/andrewrlynch/andrewrlynch.github.io/blob/master/Jinek-et-al.-2012.pdf)<br>
 -[Higgs boson is detected at CERN.](https://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html)<br>
--The whole Kony 2012 thing.<br>
+-The whole Kony 2012 thing. <br>
 -The Mayan/Mesoamerican Long Count Calendar ends (21 December). Apocalypse begins. <br>
 #### 2013 <br>
 -Pope Francis succeeds Pope Benedict XVI. <br>
