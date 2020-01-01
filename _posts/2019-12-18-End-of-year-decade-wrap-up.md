@@ -65,7 +65,7 @@ This year - 2019 - has been a great year for me. And this decade offers a lot to
 
 
 ## For Me - Notable Dates and Milestones <br>
-**2010** - Truly nothing notable. Playing a lot of World of Warcraft. 
+**2010** - Truly nothing notable. Playing a lot of World of Warcraft. <br>
 **Sometime in 2011** - Realize I should probably get my shit together and start thinking about college. Decide I want to be a psychiatrist. <br>
 **31 October 2011** - Meet my future wife in the basement of my girlfriend's house during a Halloween screening of *Cabin Fever*. <br>
 **11 November 2011** - Wait in line for the midnight release of *Elder Scrolls: Skyrim*. My best friend and I were there for about four hours before anyone else showed up. 
