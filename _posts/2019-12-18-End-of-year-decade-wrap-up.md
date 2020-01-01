@@ -8,8 +8,9 @@ Well here we are. We're nearing the end of the Twenty-Tens. A decade of increasi
 <br><br>
 This year - 2019 - has been a great year for me. And this decade offers a lot to reflect on - within my own personal life and without. I'd like to kick off a new decade with a 'mental flush' of the events that resonated with me as defining the last 10 years. 
 <br>
-### Notable Events
+## Notable Events
 #### 2010 <br>
+-The Affordable Care Act is signed into law. <br>
 -A 7.0 Mw earthquake devastates the country of Haiti, killing hundreds of thousands.<br>
 -The Deepwater Horizon oil rig explodes in the Gulf of Mexico, triggering an environmental crisis.<br> 
 -President Obama repeals "Don't Ask, Don't Tell".<br>
@@ -34,17 +35,37 @@ This year - 2019 - has been a great year for me. And this decade offers a lot to
 -Barack Obama wears a tan suit and people get upset? <br>
 #### 2015 <br>
 -Officials from 195 countries address climate change intervention in the Paris Climate Agreement. <br>
-- 
-#### 2016
-#### 2017
-#### 2018
-#### 2019
+-Same-sex marriage bans are struck down in all states after hearing in the Supreme Court.  <br>
+-Charleston church shooting (and too many others). Mass shootings becoming commonplace. <br>
+#### 2016 <br>
+-Brexit. <br>
+-Russia's interference in U.S. election. <br>
+-Donald Trump is elected president. *Fuck*. <br>
+-North Korea scales up nuclear tests. <br>
+-The Pulse Nightclub shooting in Orlando, Florida. 50 are killed. <br>
+-Gravity waves are detected. <br>
+#### 2017 <br>
+-Donald Trump assumes office. Michael Flynn almost immediately resigns as National Security Director, setting the tone for the presidency. <br>
+-Ronan Farrow's reporting on the accounts of Harvey Weinstein's sexual misconduct kicks off the #MeToo movement. Allegations against a series of high profile celebrities will follow (Bill Cosby, Kevin Spacey, Louis C.K., Matt Lauer) <br>
+-Solar eclipse occurs on my birthday! I observed it from an OfficeMax parking lot. <br>
+-58 people killed at a concert in Las Vegas in another mass shooting. This is one of many. <br>
+-Comey, Comey, Comey, Comey. <br>
+#### 2018 <br>
+-Trade war begins between U.S. and China. <br>
+-Trump administration enacts zero-tolerance family separation policy at the southern border, spearheaded by Senior Policy Advisor and sleepy-eyed White Nationalist, Stephen Miller. <br>
+-Democrats win back the House of Representatives. <br>
+-More shootings.
+#### 2019 <br>
+-The Mueller Report and the impeachment of Donald Trump. <br>
+-World Cup victory for the U.S. Women's National Soccer Team! <br>
+-More shootings. New Zealand enacts ban on military-style weapons.<br>
+-First all woman space walk. After an embarrassing NASA space-suit snafu. <br>
 
 
-### For Me - Notable Dates and Milestones
+## For Me - Notable Dates and Milestones
 <br>
 
-### The Decade in Data
+## The Decade in Data
 #### Climate Change
 ~~~
 #Sea Surface Temperature Anomaly
