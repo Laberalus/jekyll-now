@@ -68,7 +68,7 @@ This year - 2019 - has been a great year for me. And this decade offers a lot to
 **2010** - Truly nothing notable. Playing a lot of World of Warcraft. <br>
 **Sometime in 2011** - Realize I should probably get my shit together and start thinking about college. Decide I want to be a psychiatrist. <br>
 **31 October 2011** - Meet my future wife in the basement of my girlfriend's house during a Halloween screening of *Cabin Fever*. <br>
-**11 November 2011** - Wait in line for the midnight release of *Elder Scrolls: Skyrim*. My best friend and I were there for about four hours before anyone else showed up. 
+**11 November 2011** - Wait in line for the midnight release of *Elder Scrolls: Skyrim*. My best friend and I were there for about four hours before anyone else showed up. <br>
 **March? 2012** - Rejected from my hometown college/college of choice. I write an appeal letter. <br>
 **April 2012** - Accepted to college of choice! University of Wisconsin - Eau Claire. Go Blugolds! <br>
 **June 2012** - Graduate from Chippewa Falls Senior Highschool (Chi-Hi).<br>
