@@ -9,13 +9,14 @@ published: true
 *Disclaimer II: books listed are not necessarily endorsements*
 <br>
 ## Currently Reading:
-**The Silmarillion** - JRR Tolkien<br>
+**The New Jim Crow: Mass Incarceration in the Age of Colorblindness** - Michelle Alexander<br>
 **The Great Hunt** - Robert Jordan<br>
 **Guns, Germs, and Steel** - Jared Diamond<br>
 **TED Talks: The Official TED Guide to Public Speaking** - Chris Anderson<br>
 
 ## Have Read:
 #### since 2017 starting with most recent
+**The Silmarillion** - JRR Tolkien<br>
 **Casino Royale** - Ian Fleming<br>
 **Snakewood** - Adrian Selby<br>
 **A Feast for Crows** - George RR Martin(AB)<br>
@@ -44,7 +45,8 @@ published: true
     
 ## To Read:
 #### as of 11 Oct 2019
-**Catch and Kill** - Ronan Farrow (very much anticipating this one)<br>
+**White Fragility** - Robin DiAngelo<br>
+**Catch and Kill** - Ronan Farrow<br>
 **The Fate of Food** - Amanda Little<br>
 **The Subtle Art of Not Giving a Fuck** - Mark Manson<br>
 **The Obstacle is the Way** - Ryan Holiday<br>
