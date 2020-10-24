@@ -18,3 +18,4 @@ I'm an avid reader of most things - largely science fiction and fantasy. I absol
 Getting out in nature has always kept me grounded and provided solace from stress at various points of my life (graduate school included). Camping is one of the easiest, cheapest, most sustainable ways to have fun and travel. [Nature and landscape photography](https://andrewrlynch.github.io/photography/) has been a transient hobby throughout my life. 
  
 Cooking has historically provided an avenue for procrastination. I continue this practice to this day. I'll leave some [recipes](https://andrewrlynch.github.io/recipes/). 
+
