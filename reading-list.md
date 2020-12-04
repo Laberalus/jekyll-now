@@ -6,16 +6,18 @@ published: true
 ---
 *Disclaimer I: for the purists, this includes audiobooks (AB).*
 <br>
-*Disclaimer II: books listed are not necessarily endorsements*
+*Disclaimer II: books listed are not necessarily endorsements. I hated "On the Road".*
 <br>
 ## Currently Reading:
+#### as of 04 Dec 2020
 **The New Jim Crow: Mass Incarceration in the Age of Colorblindness** - Michelle Alexander<br>
-**The Great Hunt** - Robert Jordan<br>
-**Guns, Germs, and Steel** - Jared Diamond<br>
-**TED Talks: The Official TED Guide to Public Speaking** - Chris Anderson<br>
+**Wherever You Go, There You Are** - Jon Kabat-Zinn<br>
+**Rhythm Of War** - Brandon Sanderson<br>
 
 ## Have Read:
 #### since 2017 starting with most recent
+**Kings of the Wyld** - Nicholas Eames<br>
+**The Great Hunt** - Robert Jordan<br>
 **The Silmarillion** - JRR Tolkien<br>
 **Casino Royale** - Ian Fleming<br>
 **Snakewood** - Adrian Selby<br>
@@ -44,8 +46,10 @@ published: true
 **The Way of Kings** - Brandon Sanderson<br>
     
 ## To Read:
-#### as of 11 Oct 2019
+#### as of 04 Dec 2020
 **White Fragility** - Robin DiAngelo<br>
+**Guns, Germs, and Steel** - Jared Diamond<br>
+**TED Talks: The Official TED Guide to Public Speaking** - Chris Anderson<br>
 **Catch and Kill** - Ronan Farrow<br>
 **The Fate of Food** - Amanda Little<br>
 **The Subtle Art of Not Giving a Fuck** - Mark Manson<br>
