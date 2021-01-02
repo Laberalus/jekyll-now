@@ -15,7 +15,7 @@ published: true
 
 ## Have Read:
 #### since 2017 starting with most recent
-**Theft of Swords** - Michael J. Sullivan<br>
+**Theft of Swords** - Michael J. Sullivan(AB)<br>
 **Wherever You Go, There You Are** - Jon Kabat-Zinn<br>
 **Kings of the Wyld** - Nicholas Eames<br>
 **The Great Hunt** - Robert Jordan<br>
