@@ -11,10 +11,10 @@ published: true
 ## Currently Reading:
 #### as of 04 Dec 2020
 **The New Jim Crow: Mass Incarceration in the Age of Colorblindness** - Michelle Alexander<br>
-**Rhythm Of War** - Brandon Sanderson<br>
 
 ## Have Read:
 #### since 2017 starting with most recent
+**Rhythm Of War** - Brandon Sanderson<br>
 **Theft of Swords** - Michael J. Sullivan(AB)<br>
 **Wherever You Go, There You Are** - Jon Kabat-Zinn<br>
 **Kings of the Wyld** - Nicholas Eames<br>
