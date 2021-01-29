@@ -193,8 +193,12 @@ img {
     border-radius: 5px;
   }
 img:hover {
-  opacity: 0.3;
-  transition: 0.5 ease;
+   transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
 }
 }
 
