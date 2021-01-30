@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: /pages/research/
 published: true
 ---
 <p style="text-align:center"><img src = "{{site.baseurl}}/nci-vol-2493-300.jpg" width = "740"></p>
