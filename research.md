@@ -14,7 +14,7 @@ Genomic instability is a major hallmark of human cancer. Chromosomal instability
 ***My research aims to better understand the occurence of CIN in tumors and the nuanced relationship between the CIN phenotype and cellular consequences that drive cancer progression.***
 <br><br>
 
-### Dynamical modeling of tumor fitness and evolution in CIN
+### Computational modeling of tumor fitness and evolution in CIN
 
 ### Identifying transcriptional consequences of chromosome missegregation that drive cell fate
 
