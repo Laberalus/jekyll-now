@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Photography
-permalink: /photography/
+permalink: /pages/photography/
 published: true
 ---
