@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Recipes
-permalink: /recipes/
+permalink: /pages/recipes/
 published: true
 ---
