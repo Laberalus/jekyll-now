@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reading List
-permalink: /reading-list/
+permalink: /pages/reading-list/
 published: true
 ---
 *Disclaimer I: for the purists, this includes audiobooks (AB).*
