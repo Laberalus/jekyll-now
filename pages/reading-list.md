@@ -10,10 +10,11 @@ published: true
 <br>
 ## Currently Reading:
 #### as of 04 Dec 2020
-**The New Jim Crow: Mass Incarceration in the Age of Colorblindness** - Michelle Alexander<br>
+**Between the World and Me** - Ta-Nehisi Coates<br>
 
 ## Have Read:
 #### since 2017 starting with most recent
+**The New Jim Crow: Mass Incarceration in the Age of Colorblindness** - Michelle Alexander<br>
 **Rhythm Of War** - Brandon Sanderson<br>
 **Theft of Swords** - Michael J. Sullivan(AB)<br>
 **Wherever You Go, There You Are** - Jon Kabat-Zinn<br>
@@ -56,7 +57,6 @@ published: true
 **The Subtle Art of Not Giving a Fuck** - Mark Manson<br>
 **The Obstacle is the Way** - Ryan Holiday<br>
 **The Daily Stoic** - Ryan Holiday<br>
-**Stormlight Chronicles: Book 4** - Brandon Sanderson<br>
 **The First Cell** - Azra Raza<br>
 **Fiasco** - Thomas E. Ricks<br>
 **Zealot: the life and times of Jesus of Nazareth** - Reza Aslan<br>
