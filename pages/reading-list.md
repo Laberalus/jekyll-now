@@ -9,7 +9,7 @@ published: true
 *Disclaimer II: books listed are not necessarily endorsements. I hated "On the Road".*
 <br>
 ## Currently Reading:
-#### as of 04 Dec 2020
+#### as of 18 Feb 2021
 **Between the World and Me** - Ta-Nehisi Coates<br>
 
 ## Have Read:
