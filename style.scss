@@ -27,7 +27,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 900px;
-  padding: 50px 25px;
+  padding: 5px 5px;
   width: 100%;
 }
 
@@ -294,6 +294,7 @@ nav {
 .wrapper-footer {
   border-top: 1px solid $gray;
   background-color: $white;
+  padding: 50px 5px
 }
 
 footer {
