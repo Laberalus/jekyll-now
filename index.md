@@ -1,9 +1,10 @@
 ---
 layout: default
+published: true
 ---
 <div markdown="1">
 
-# Hi. 
+# Hi!
 
 My name is Andrew Lynch. I'm a scientist studying cancer and currently a PhD candidate in Cell and Molecular Pathology at the University of Wisconsin - Madison. I employ genomics, stochastic modeling, and cell biology to study the role of chromosomal instability (CIN) and aneuploidy in the evolution of tumors and the progression of cancer.
 
