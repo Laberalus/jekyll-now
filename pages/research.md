@@ -8,14 +8,14 @@ published: true
 
 ## Chromosomal Instability in the Progression of Human Cancer
   <p style="text-align:justify">
-Genomic instability is a major hallmark of human cancer. Chromosomal instability (CIN), the propensity for a cell to lose or gain chromosomes, occurs at varying rates in upwards of 90% of cancers. The presence of CIN is associated with advanced clinical features and worse patient prognosis. However, high "levels" of CIN are tumor inhibiting. Despite its clinical significance, an efficient and reliable method for quantifyng the "levels" of CIN in tumors does not exist. 
+Genomic instability is a major hallmark of human cancer. Chromosomal instability (CIN), the propensity for a cell to lose or gain chromosomes, occurs at varying rates in upwards of 90% of cancers. The presence of CIN is associated with advanced clinical features and worse patient prognosis. However, high "levels" of CIN are tumor inhibiting. Despite its clinical significance, an efficient and quantitative method for quantifyng the "levels" of CIN __in vivo__ does not exist. 
 <br>
   </p>
 ***My research aims to better understand the occurence of CIN in tumors and the nuanced relationship between the CIN phenotype and cellular consequences that drive cancer progression.***
 <br><br>
 
 ### Computational modeling of nCIN in tumor evolution
-  <p style="text-align:center"><img src = "https://bioconjugate.files.wordpress.com/2018/08/ezgif-com-video-to-gif.gif" width = "500"></p>
+  <p style="text-align:center"><img src = "https://bioconjugate.files.wordpress.com/2018/08/ezgif-com-video-to-gif.gif" width = "350"></p>
   <p style="text-align:justify">
 
   
