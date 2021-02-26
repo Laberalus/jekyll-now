@@ -21,5 +21,4 @@ Getting out in nature has always kept me grounded and provided solace from stres
 Cooking has historically provided an avenue for procrastination. I continue this practice to this day. I'll leave some [recipes](https://andrewrlynch.github.io/pages/recipes/). 
 
 *Disclaimer: The views and opinions expressed in this blog are those of myself, Andrew Lynch, not any other employing or governing entity with which I am associated.*
-
 </div>
