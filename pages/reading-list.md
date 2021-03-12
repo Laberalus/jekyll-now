@@ -13,27 +13,32 @@ published: true
 **Why Buddhism is True** - Robert Wright<br>
 
 ## Have Read:
-#### since 2017 starting with most recent
+#### 2021
 **Between the World and Me** - Ta-Nehisi Coates<br>
 **The New Jim Crow: Mass Incarceration in the Age of Colorblindness** - Michelle Alexander<br>
 **Rhythm Of War** - Brandon Sanderson<br>
+#### 2020
 **Theft of Swords** - Michael J. Sullivan(AB)<br>
 **Wherever You Go, There You Are** - Jon Kabat-Zinn<br>
 **Kings of the Wyld** - Nicholas Eames<br>
 **The Great Hunt** - Robert Jordan<br>
 **The Silmarillion** - JRR Tolkien<br>
-**Casino Royale** - Ian Fleming<br>
 **Snakewood** - Adrian Selby<br>
+**A Dance with Dragons** - George RR Martin(AB)<br>
+**Casino Royale** - Ian Fleming<br>
+#### 2019
 **A Feast for Crows** - George RR Martin(AB)<br>
 **A Storm of Swords** - George RR Martin(AB)<br>
 **Clash of Kings** - George RR Martin(AB)<br>
-**The Collapsing Empire** - John Scalzi(AB)<br>
 **A Walk in the Woods** - Bill Bryson<br>
 **Last Argument of Kings** - Joe Abercrombie(AB)<br>
 **Before They Are Hanged** - Joe Abercrombie(AB)<br>
 **The Blade Itself** - Joe Abercrombie(AB)<br>
+#### 2018
+**The Collapsing Empire** - John Scalzi(AB)<br>
 **Old Man's War** - John Scalzi<br>
 **Gardens of the Moon** - Steven Erikson<br>
+#### 2017
 **Oathbringer** - Brandon Sanderson<br>
 **The Wise Man's Fear** - Patrick Rothfuss<br>
 **The Gene** - Siddhartha Mukherjee<br>
@@ -48,7 +53,7 @@ published: true
 **On the Road** - Jack Kerouac<br>
 **The Way of Kings** - Brandon Sanderson<br>
     
-## To Read:
+## Non-Exhaustive TBR:
 #### as of 04 Dec 2020
 **White Fragility** - Robin DiAngelo<br>
 **Guns, Germs, and Steel** - Jared Diamond<br>
