@@ -9,11 +9,12 @@ published: true
 *Disclaimer II: books listed are not necessarily endorsements. I hated "On the Road".*
 <br>
 ## Currently Reading:
-#### as of 18 Feb 2021
-**Between the World and Me** - Ta-Nehisi Coates<br>
+#### as of 10 March 2021
+**Why Buddhism is True** - Robert Wright<br>
 
 ## Have Read:
 #### since 2017 starting with most recent
+**Between the World and Me** - Ta-Nehisi Coates<br>
 **The New Jim Crow: Mass Incarceration in the Age of Colorblindness** - Michelle Alexander<br>
 **Rhythm Of War** - Brandon Sanderson<br>
 **Theft of Swords** - Michael J. Sullivan(AB)<br>
