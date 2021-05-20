@@ -9,11 +9,13 @@ published: true
 *Disclaimer II: books listed are not necessarily endorsements. I hated "On the Road".*
 <br>
 ## Currently Reading:
-#### as of 10 March 2021
-**Why Buddhism is True** - Robert Wright<br>
+#### as of 20 May 2021
+**The Slow Regard of Silent Things** - Patrick Rothfuss <br>
 
 ## Have Read:
 #### 2021
+**Breach of Peace** - Daniel B. Greene<br>
+**Why Buddhism is True** - Robert Wright<br>
 **Ancillary Justice** - Ann Leckie(AB)<br>
 **Between the World and Me** - Ta-Nehisi Coates<br>
 **The New Jim Crow: Mass Incarceration in the Age of Colorblindness** - Michelle Alexander<br>
