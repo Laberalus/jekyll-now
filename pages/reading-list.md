@@ -10,10 +10,11 @@ published: true
 <br>
 ## Currently Reading:
 #### as of 20 May 2021
-**The Slow Regard of Silent Things** - Patrick Rothfuss <br>
+**The Dispossessed** - Ursula K. Le Guin <br>
 
 ## Have Read:
 #### 2021
+**The Slow Regard of Silent Things** - Patrick Rothfuss <br>
 **Breach of Peace** - Daniel B. Greene<br>
 **Why Buddhism is True** - Robert Wright<br>
 **Ancillary Justice** - Ann Leckie(AB)<br>
@@ -55,28 +56,3 @@ published: true
 **Words of Radiance** - Brandon Sanderson<br>
 **On the Road** - Jack Kerouac<br>
 **The Way of Kings** - Brandon Sanderson<br>
-    
-## Non-Exhaustive TBR:
-#### as of 04 Dec 2020
-**White Fragility** - Robin DiAngelo<br>
-**Guns, Germs, and Steel** - Jared Diamond<br>
-**TED Talks: The Official TED Guide to Public Speaking** - Chris Anderson<br>
-**Catch and Kill** - Ronan Farrow<br>
-**The Fate of Food** - Amanda Little<br>
-**The Subtle Art of Not Giving a Fuck** - Mark Manson<br>
-**The Obstacle is the Way** - Ryan Holiday<br>
-**The Daily Stoic** - Ryan Holiday<br>
-**The First Cell** - Azra Raza<br>
-**Fiasco** - Thomas E. Ricks<br>
-**Zealot: the life and times of Jesus of Nazareth** - Reza Aslan<br>
-**Congo: the epic history of a people** - David Van Reybrouck<br>
-**Beyond Redemption** - Michael R. Fletcher<br>
-**The Winter Road** - Adrian Selby<br>
-**Binti** - Nnedi Okorafor<br>
-**Winter Tide** - Ruthanna Emrys<br>
-**The Tangled Tree: a radical new history of life** - David Quammen<br>
-**She Has Her Mother's Laugh** - Carl Zimmer<br>
-**Push** - Tommy Caldwell<br>
-**Children of Blood and Bone** - Tomy Adeyemi<br>
-**The Sea Around Us** - Rachel Carson<br>
-**Algorithms to Live By** - Brian Christian & Tom Griffiths<br>
