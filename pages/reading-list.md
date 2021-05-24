@@ -9,7 +9,7 @@ published: true
 *Disclaimer II: books listed are not necessarily endorsements. I hated "On the Road".*
 <br>
 ## Currently Reading:
-#### as of 20 May 2021
+#### as of 24 May 2021
 **The Dispossessed** - Ursula K. Le Guin <br>
 
 ## Have Read:
