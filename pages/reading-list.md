@@ -9,7 +9,8 @@ published: true
 *Disclaimer II: books listed are not necessarily endorsements. I hated "On the Road".*
 <br>
 ## Currently Reading:
-#### as of 24 May 2021
+#### as of 07 July 2021
+**The Darkness That Came Before** - R. Scott Bakker <br>
 **The Dispossessed** - Ursula K. Le Guin <br>
 
 ## Have Read:
