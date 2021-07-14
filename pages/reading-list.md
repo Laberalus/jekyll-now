@@ -10,11 +10,12 @@ published: true
 <br>
 ## Currently Reading:
 #### as of 07 July 2021
-**The Darkness That Came Before** - R. Scott Bakker <br>
+**The Dragon Reborn** - Robert Jordan <br>
 **The Dispossessed** - Ursula K. Le Guin <br>
 
 ## Have Read:
 #### 2021
+**The Darkness That Comes Before** - R. Scott Bakker <br>
 **The Slow Regard of Silent Things** - Patrick Rothfuss <br>
 **Breach of Peace** - Daniel B. Greene<br>
 **Why Buddhism is True** - Robert Wright<br>
